@@ -1,8 +1,7 @@
 # MPI_Assignment
 This project includes a simple MPI project that will be used as the base for Assignment 2 in our Distributed and Cloud Computing course.
 
-#new update, make it signed integer, so it is more friendly to some compiler that doesn't support uint32_t
-install  libmpich-dev or libopenmpi-dev
+#install  libmpich-dev
 
 
 
