@@ -1,5 +1,5 @@
 # MPI_Assignment
-This project includes a simple MPI project that will be used as the base for Assignment 2 in our Distributed and Cloud Computing course.
+This project includes a simple MPI project that will be used as the base for the Distributed Programming Assignment in our Distributed and Cloud Computing course.
 
 #install  libmpich-dev
 
